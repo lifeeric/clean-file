@@ -1,0 +1,11 @@
+# This is Test
+# Learning Shell Is Terrible
+# You should Try
+# for Automation
+
+echo "Automation"
+
+# This is Script written in bash
+# Hello
+
+echo "Bash .."
